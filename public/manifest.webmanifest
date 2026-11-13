@@ -1,0 +1,12 @@
+{
+  "name": "PokeKart",
+  "short_name": "PokeKart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081714",
+  "theme_color": "#122b25",
+  "description": "Base jugable de PokeKart, un juego de carreras arcade 3D con temática Pokémon.",
+  "orientation": "landscape",
+  "scope": "/",
+  "icons": []
+}
